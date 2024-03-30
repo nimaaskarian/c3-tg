@@ -1,2 +1,5 @@
 __pycache__/
+pinned-messages
+todos/
+todo-chats
 *.session
